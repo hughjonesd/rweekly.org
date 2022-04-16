@@ -51,6 +51,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Updated Packages
 
+* [{santoku}](https://cran.r-project.org/package=santoku): a versatile cutting tool
 
 
 ### Videos and Podcasts
