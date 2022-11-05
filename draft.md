@@ -51,6 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+* [onetime](https://github.com/hughjonesd/onetime/) - run R code just once (ever) per user
 
 
 ### Updated Packages
