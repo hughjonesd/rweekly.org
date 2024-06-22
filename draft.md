@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [Learning from codesamples](http://hughjonesd.github.io/learning-from-codesamples.html)
 
 ### R in the Real World
 
@@ -76,7 +76,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
-
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
