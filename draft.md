@@ -19,7 +19,7 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 ### Insights
 
 
-
+* [What packages belong together? Learning from R code samples](http://hughjonesd.github.io/learning-from-codesamples.html)
 
 
 ### R in the Real World
